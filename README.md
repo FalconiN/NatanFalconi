@@ -1,7 +1,7 @@
 # NatanFalconi
 
 ## Olá pessoal 👋
-Sou apaixonado por por programação programação.
+Sou apaixonado por por desenvolvimento web e tudo o que é possivel fazer.
 Sou um estunde de programação :computer:
 
 
